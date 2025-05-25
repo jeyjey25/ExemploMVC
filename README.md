@@ -1,3 +1,3 @@
 # ExemploMVC
 
-feito por jean, joao, e vithor
+feito por jean, joao, e vitor
